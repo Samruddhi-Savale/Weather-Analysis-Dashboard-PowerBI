@@ -39,6 +39,7 @@ The goal of this project is to demonstrate strong **data visualization**, **data
 * **WeatherAPI (JSON Endpoint)** – Real‑time weather data source
 
 ---
+**Dshboard Video:** <a href = "https://github.com/Samruddhi-Savale/Weather-Analysis-Dashboard-PowerBI/blob/main/Dashboard%20Video.mp4"> Weather Analysis Dashbord Video </a>
 
 **Interactive Dashboard:** <a href = "https://github.com/Samruddhi-Savale/Weather-Analysis-Dashboard-PowerBI/blob/main/Weather-Report.pbix"> Weather Analysis Dashboard (Power BI) </a>
 
